@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/100hz/dopebot#readme",
   "dependencies": {
-    "@slack/client": "^5.0.0",
+    "@slack/client": "^5.0.1",
     "html-entities": "^1.2.1",
     "mopidy": "^1.0.1",
     "spotify-web-api-node": "^4.0.0",
